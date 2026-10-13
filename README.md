@@ -1,1 +1,7 @@
 # operatsion_tizim
+
+BU REPOSITORY OPERATSION TIZIMLAR FANING TOPSHIRIQLARINI BAJARISH UCHUN YARATILDI!
+
+TALABA: Abdukamol Homidov Mirzohid o'g'li
+USTOZ: Bekimmetova Durdona Ikromjon qizi
+GURUH: SRM002-2
